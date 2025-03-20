@@ -8,4 +8,7 @@ PERIFERICHE
    - TASTIERE 
 
 
+PERIFERICHE
+    - MOUSE
+
 Elettronica Padovana
