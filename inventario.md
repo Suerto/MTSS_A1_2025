@@ -5,4 +5,7 @@ COMPONENTI
    - SCHEDE MADRI
    - PROCESSORI
 
+PERIFERICHE
+    - MOUSE
+
 Elettronica Padovana
