@@ -4,5 +4,8 @@
 COMPONENTI
    - SCHEDE MADRI
    - PROCESSORI
+PERIFERICHE
+   - TASTIERE 
+
 
 Elettronica Padovana
